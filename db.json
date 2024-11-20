@@ -2,75 +2,115 @@
   "roupas": [
     {
       "id": 1,
-      "nome": "vestido",
-      "descricao": "vestido vermelho disponível em todos os tamanhos",
-      "tamanhos": ["PP", "P", "M", "G", "GG"]
-    },
-    {
-      "id": 2,
       "nome": "camiseta",
-      "descricao": "camiseta básica branca, ideal para o dia a dia",
+      "descricao": "camiseta de algodão, confortável e leve",
       "tamanhos": ["P", "M", "G", "GG"]
     },
     {
+      "id": 2,
+      "nome": "calça",
+      "descricao": "calça jeans, ajuste perfeito e estilo moderno",
+      "tamanhos": ["38", "40", "42", "44"]
+    },
+    {
       "id": 3,
-      "nome": "calça jeans",
-      "descricao": "calça jeans azul escuro, resistente e confortável",
-      "tamanhos": ["38", "40", "42", "44", "46"]
+      "nome": "jaqueta",
+      "descricao": "jaqueta de couro, ideal para o inverno",
+      "tamanhos": ["M", "G", "GG"]
     },
     {
       "id": 4,
       "nome": "saia",
-      "descricao": "saia midi estampada, perfeita para o verão",
+      "descricao": "saia longa, leve e fresca para o verão",
       "tamanhos": ["P", "M", "G"]
     },
     {
       "id": 5,
-      "nome": "jaqueta",
-      "descricao": "jaqueta de couro preta, estilo rock",
+      "nome": "vestido",
+      "descricao": "vestido de festa, elegante e sofisticado",
       "tamanhos": ["P", "M", "G"]
     },
     {
       "id": 6,
-      "nome": "blusa de frio",
-      "descricao": "blusa de frio cinza, quentinha e confortável",
-      "tamanhos": ["P", "M", "G", "GG"]
+      "nome": "short",
+      "descricao": "short de praia, confortável e estiloso",
+      "tamanhos": ["P", "M", "G"]
     },
     {
       "id": 7,
-      "nome": "shorts",
-      "descricao": "shorts de algodão, ideal para dias quentes",
-      "tamanhos": ["P", "M", "G"]
+      "nome": "blusa",
+      "descricao": "blusa de manga longa, ideal para dias frios",
+      "tamanhos": ["M", "G", "GG"]
     },
     {
       "id": 8,
       "nome": "bermuda",
-      "descricao": "bermuda cargo, com vários bolsos e confortável",
-      "tamanhos": ["M", "G", "GG"]
+      "descricao": "bermuda casual, perfeita para o verão",
+      "tamanhos": ["40", "42", "44"]
     },
     {
       "id": 9,
-      "nome": "camisa social",
-      "descricao": "camisa social branca, perfeita para ocasiões formais",
-      "tamanhos": ["P", "M", "G", "GG"]
+      "nome": "camisa",
+      "descricao": "camisa social, ideal para o trabalho",
+      "tamanhos": ["M", "G", "GG"]
     },
     {
       "id": 10,
-      "nome": "sapato",
-      "descricao": "sapato social preto, ideal para o trabalho",
-      "tamanhos": ["37", "38", "39", "40"]
-    },
-    {
-      "id": 11,
-      "nome": "sandália",
-      "descricao": "sandália rasteira, confortável e estilosa para o verão",
-      "tamanhos": ["36", "37", "38", "39"]
-    },
-    {
-      "id": 12,
-      "nome": "mochila",
-      "descricao": "mochila de lona, resistente e com vários compartimentos",
-      "tamanhos": ["único"]
+      "nome": "blazer",
+      "descricao": "blazer elegante, perfeito para ocasiões formais",
+      "tamanhos": ["M", "G", "GG"]
     }
-  ]
-}
+  ],
+  "sapatos": [
+    {
+      "id": 14,
+      "nome": "tênis",
+      "descricao": "tênis esportivo confortável, ideal para atividades físicas",
+      "tamanhos": ["37", "38", "39", "40", "41"]
+    },
+    {
+      "id": 15,
+      "nome": "bota",
+      "descricao": "bota de couro marrom, perfeita para o inverno",
+      "tamanhos": ["36", "37", "38", "39", "40"]
+    },
+    {
+      "id": 16,
+      "nome": "sandália",
+      "descricao": "sandália de salto alto, elegante e estilosa",
+      "tamanhos": ["35", "36", "37", "38"]
+    },
+    {
+      "id": 17,
+      "nome": "chinelo",
+      "descricao": "chinelo de borracha, confortável para o dia a dia",
+      "tamanhos": ["36", "37", "38", "39", "40"]
+    },
+    {
+      "id": 18,
+      "nome": "sapato social",
+      "descricao": "sapato social preto, ideal para ocasiões formais",
+      "tamanhos": ["39", "40", "41", "42"]
+    },
+    {
+      "id": 19,
+      "nome": "botinha",
+      "descricao": "botinha de cano curto, casual e moderna",
+      "tamanhos": ["37", "38", "39"]
+    },
+    {
+      "id": 20,
+      "nome": "sapatilha",
+      "descricao": "sapatilha confortável, perfeita para o dia a dia",
+      "tamanhos": ["35", "36", "37", "38"]
+    },
+    {
+      "id": 21,
+      "nome": "sapato de festa",
+      "descricao": "sapato de festa com brilho, ideal para eventos especiais",
+      "tamanhos": ["36", "37", "38", "39", "40"]
+    },
+    {
+      "id": 22,
+      "nome": "tênis casual",
+      "descricao": "tênis casual, ótimo para
