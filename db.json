@@ -1,9 +1,76 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "roupas": [
+    {
+      "id": 1,
+      "nome": "vestido",
+      "descricao": "vestido vermelho disponível em todos os tamanhos",
+      "tamanhos": ["PP", "P", "M", "G", "GG"]
+    },
+    {
+      "id": 2,
+      "nome": "camiseta",
+      "descricao": "camiseta básica branca, ideal para o dia a dia",
+      "tamanhos": ["P", "M", "G", "GG"]
+    },
+    {
+      "id": 3,
+      "nome": "calça jeans",
+      "descricao": "calça jeans azul escuro, resistente e confortável",
+      "tamanhos": ["38", "40", "42", "44", "46"]
+    },
+    {
+      "id": 4,
+      "nome": "saia",
+      "descricao": "saia midi estampada, perfeita para o verão",
+      "tamanhos": ["P", "M", "G"]
+    },
+    {
+      "id": 5,
+      "nome": "jaqueta",
+      "descricao": "jaqueta de couro preta, estilo rock",
+      "tamanhos": ["P", "M", "G"]
+    },
+    {
+      "id": 6,
+      "nome": "blusa de frio",
+      "descricao": "blusa de frio cinza, quentinha e confortável",
+      "tamanhos": ["P", "M", "G", "GG"]
+    },
+    {
+      "id": 7,
+      "nome": "shorts",
+      "descricao": "shorts de algodão, ideal para dias quentes",
+      "tamanhos": ["P", "M", "G"]
+    },
+    {
+      "id": 8,
+      "nome": "bermuda",
+      "descricao": "bermuda cargo, com vários bolsos e confortável",
+      "tamanhos": ["M", "G", "GG"]
+    },
+    {
+      "id": 9,
+      "nome": "camisa social",
+      "descricao": "camisa social branca, perfeita para ocasiões formais",
+      "tamanhos": ["P", "M", "G", "GG"]
+    },
+    {
+      "id": 10,
+      "nome": "sapato",
+      "descricao": "sapato social preto, ideal para o trabalho",
+      "tamanhos": ["37", "38", "39", "40"]
+    },
+    {
+      "id": 11,
+      "nome": "sandália",
+      "descricao": "sandália rasteira, confortável e estilosa para o verão",
+      "tamanhos": ["36", "37", "38", "39"]
+    },
+    {
+      "id": 12,
+      "nome": "mochila",
+      "descricao": "mochila de lona, resistente e com vários compartimentos",
+      "tamanhos": ["único"]
+    }
+  ]
 }
