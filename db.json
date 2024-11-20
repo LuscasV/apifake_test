@@ -109,8 +109,6 @@
       "nome": "sapato de festa",
       "descricao": "sapato de festa com brilho, ideal para eventos especiais",
       "tamanhos": ["36", "37", "38", "39", "40"]
-    },
-    {
-      "id": 22,
-      "nome": "tênis casual",
-      "descricao": "tênis casual, ótimo para
+    }
+  ]
+}
